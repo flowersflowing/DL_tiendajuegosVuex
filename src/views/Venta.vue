@@ -9,7 +9,7 @@ export default {
     data() {
         return {
             products: [
-                {}
+                {codigo: "0001", nombre: "Sekiro", stock: 100, precio: 30000, color: "red", destacado: true},
             ]
         }
     },  
